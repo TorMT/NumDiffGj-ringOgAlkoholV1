@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rsXJvbSUrnU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tormt\\Downloads\\Kegland\\KegLandForms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tormt\\.nuget\\packages\\winforms.datavisualization\\1.9.2\\winforms.datavisualization.1.9.2.nupkg.sha512"
+  ],
+  "logs": []
+}
